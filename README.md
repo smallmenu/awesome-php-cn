@@ -17,14 +17,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
 * 英文还不错，能读懂英文并用自己的话复述；
 * 有 PHP 开发经验；
 
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「PHP大全」
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「PHP大全」 -->
 
 * * *
 
@@ -32,13 +32,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr)、[欧w](http://hao.jobbole.com/author/ljxjxqht/)、[邢敏](http://github.com/dfghj44444)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[wispedia](http://www.jobbole.com/members/wispedia/)、[CmderQ](https://github.com/CmderQ)、[kevinskywalker](https://github.com/kevinskywalker)、You
 
 注：名单不分排名，不定期补充更新
 
 * * *
 
-### 奖励计划
+<!-- ### 奖励计划
 
 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
 
@@ -46,7 +46,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
 * [官奖励详情网](http://hao.jobbole.com/rewards/)
 
-* * *
+* * * -->
 
 
 ## 依赖管理
@@ -79,7 +79,7 @@ _Web开发框架_
 *   Yii2： 另一个PHP框架 [官网](https://github.com/yiisoft/yii2/)
 *   Nette： 另一个由个体组件组成的框架 [官网](http://nette.org/)
 *   PPI Framework 2：一个互操作性框架 [官网](http://www.ppi.io/)
-*   Phalcon：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)
+*   [Phalcon](http://hao.jobbole.com/phalcon/)：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)、[Github](https://github.com/phalcon/cphalcon)
 
 ## 其他框架
 
@@ -96,6 +96,7 @@ _来自Web开发框架的独立组件_
 *   Zend Framework 2 Components：ZF2组件 [官网](https://packages.zendframework.com/)
 *   Aura Components：PHP5.4组件包 [官网](http://auraphp.github.com/)
 *   Hoa Project：另一个PHP组件包 [官网](http://hoa-project.net/En/)
+*   Swoft: 基于 Swoole 原生协程的新时代 PHP 全栈式协程框架 [官网](https://www.swoft.org/) [GitHub] (https://github.com/swoft-cloud/swoft)
 
 ## 微型框架
 
@@ -117,6 +118,7 @@ _其他相关的微型框架和路由_
 *   Slim Skeleton：Slim架构 [官网](https://github.com/codeguy/Slim-Skeleton)
 *   Slim View：Slim的自定义视图集合 [官网](https://github.com/codeguy/Slim-Views)
 *   Slim Middleware：Slim的自定义中间件集合 [官网](https://github.com/codeguy/Slim-Middleware)
+*   [phy-yaf](http://hao.jobbole.com/phy-yaf/)：一个用C语言编写的php框架 [官网](http://www.php.net/manual/en/book.yaf.php)
 
 ## 模板
 
@@ -242,7 +244,7 @@ _持续集成的库和应用_
 *   Travis CI：一个持续集成平台 [官网](https://travis-ci.org/)
 *   PHPCI：一个PHP的开源持续集成平台 [官网](http://www.phptesting.org/)
 *   Sismo：一个持续测试服务库 [官网](http://sismo.sensiolabs.org/)
-*   PHP 支持[Jenkins](http://jenkins-ci.org/)一个 [官网](http://jenkins-php.org/index.html)的持续集成平台
+*   Jenkins-PHP：支持[Jenkins](http://jenkins-ci.org/)的一个持续集成平台 [官网](http://jenkins-php.org/index.html)
 *   JoliCi：一个用PHP编写的由Docker支持的持续集成客户端 [官网](https://github.com/jolicode/JoliCi)
 
 ## 文档
@@ -265,7 +267,7 @@ _生成安全的随机数，加密数据，扫描漏洞的库_
 *   PHPSecLib：一个纯PHP安全通信库 [官网](http://phpseclib.sourceforge.net/)
 *   TCrypto：一个简单的键值加密存储库 [官网](https://github.com/timoh6/TCrypto)
 *   IDS： 一个结构化的PHP安全层 [PHP 官网](https://github.com/PHPIDS/PHPIDS)
-*   SSH：一个试验的面向对象的SSH包装库 [PHP 官网](https://github.com/Herzult/php-ssh)
+*   PHP-SSH：一个试验的面向对象的SSH包装库 [官网](https://github.com/Herzult/php-ssh)
 *   IniScan：一个扫描PHP INI文件安全的库 [官网](https://github.com/psecio/iniscan)
 *   SensioLabs Security Check：一个为检查Composer依赖提供安全建议的web工具 [官网](https://security.sensiolabs.org/)
 *   Zed：一个集成的web应用渗透测试工具 [官网](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
@@ -274,11 +276,11 @@ _生成安全的随机数，加密数据，扫描漏洞的库_
 
 _处理和存储密码的库和工具_
 
-*   Compat：一个新的PHP5.5密码函数的兼容库 [Password 官网](https://github.com/ircmaxell/password_compat)
+*   Password Compat：一个新的PHP5.5密码函数的兼容库 [官网](https://github.com/ircmaxell/password_compat)
 *   phpass： 一个便携式的密码哈希框架 [官网](http://www.openwall.com/phpass/)
 *   PHP Password Lib：一个生成和校验密码的库 [官网](https://github.com/ircmaxell/PHP-PasswordLib)
-*   Password Policy： 一个PHP和JavaScript的密码策略库 [官网](https://github.com/ircmaxell/password-policy)
-*   Password Validator： 校验和升级密码哈希的库 [官网](https://github.com/jeremykendall/password-validator)
+*   Password Policy：一个PHP和JavaScript的密码策略库 [官网](https://github.com/ircmaxell/password-policy)
+*   Password Validator：校验和升级密码哈希的库 [官网](https://github.com/jeremykendall/password-validator)
 *   Zxcvbn PHP：一个基于Zxcvbn JS的现实的PHP密码强度估计库 [官网](https://github.com/bjeavons/zxcvbn-php)
 
 ## 代码分析
@@ -537,7 +539,7 @@ _过滤和验证数据的库_
 *   Upload：一个处理文件上传和验证的库 [官网](https://github.com/codeguy/Upload)
 *   DMS Filter：一个注释过滤库 [官网](https://github.com/rdohms/DMS-Filter)
 *   MetaYaml：一个支持YAML,JSON和XML的模式验证库 [官网](https://github.com/romaricdrigon/MetaYaml)
-*   ISO-codes：验证各种ISO和ZIP编码的库(IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN) [官网](https://github.com/ronanguilloux/IsoCodes)
+*   ISO-codes：验证各种ISO和ZIP编码的库(IBAN、SWIFT/BIC、BBAN、VAT、SSN、UKNIN) [官网](https://github.com/ronanguilloux/IsoCodes)
 
 ##  REST API
 
@@ -593,7 +595,7 @@ _项目部署库_
 
 _国际化（I18n）和本地化（L10n）_
 
-*   Aura.Intl：[官网](https://github.com/auraphp/Aura.Intl)
+*   [Aura.Intl](http://hao.jobbole.com/aura-intl/)：[官网](https://github.com/auraphp/Aura.Intl)
 
 ## 第三方API
 
@@ -617,7 +619,7 @@ _访问第三方API的库_
 _帮组构建PHP扩展的库_
 
 *   Zephir：用于开发PHP扩展，且介于PHP和C++之间的编译语言 [官网](https://github.com/phalcon/zephir)
-*   PHP CPP：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
+*   [PHP CPP](http://hao.jobbole.com/php-cpp/)：一个开发PHP扩展的C++库 [官网](http://www.php-cpp.com/)
 
 ## 杂项
 
@@ -713,12 +715,13 @@ _支持PHP的集成开发环境_
 *   Netbeans：一个支持PHP和HTML5的IDE [官网](https://netbeans.org/)
 *   Eclipse for PHP Developers：一个基于Eclipse平台的PHP IDE [官网](https://www.eclipse.org/downloads/)
 *   [PhpStorm](http://hao.jobbole.com/phpstorm/)：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
+*   [Sublime Text] ：一个轻量级的PHP IDE [官网](http://www.sublimetext.com/)
 
 ## Web应用
 
 _基于Web的应用和工具_
 
-*   3V4L[官网](http://3v4l.org/)一个在线的PHP shell
+*   3V4L：一个在线的PHP shell [官网](http://3v4l.org/)
 *   DBV：一个数据库版本控制应用 [官网](http://dbv.vizuina.com/)
 *   PHP Queue：一个管理后端队列的应用 [官网](https://github.com/CoderKungfu/php-queue)
 *   Composer as a Service：作为一个zip文件下载Composer包的工具 [官网](http://composer.borreli.com/)
